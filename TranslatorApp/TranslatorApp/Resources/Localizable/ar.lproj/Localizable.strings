@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  Simple Demo
+
+  Created by Sagar Lukhi on 27/12/22.
+  
+*/
+
+"Simple Demo" = "عرض تجريبي بسيط";
+"By clicking get stated button, you are agree to the Privacy Policy and Terms of Service." = "بالنقر فوق زر البدء ، فإنك توافق على سياسة الخصوصية وشروط الخدمة.";
+"Terms of Service" = "شروط الخدمة";
+"Get Started" = "البدء";
+"Loading Ads..." = "تحميل الإعلانات ...";
+"Please checked Privacy policy !" = "يرجى مراجعة سياسة الخصوصية!";
+"Get Started" = "البدء";
+"Done" = "منتهي";
+"Next" = "التالي";
+"Continue" = "يكمل";
+"Home" = "بيت";
+"GOT IT" = "فهمتك";
+"Permissions Requied To Simple Demo" = "الأذونات المطلوبة لعرض بسيط";
+
+"All infomation About different types." = "جميع المعلومات حول أنواع مختلفة.";
+"Please Allow Access" = "يرجى السماح بالوصول";
+"Please allow the following permission by clicking Take Permission Button." = "يُرجى السماح بالإذن التالي بالنقر فوق الزر أخذ الإذن.";
+"Media & Storage" = "وسائط التخزين";
+"Allow to access photos, media and files from device." = "السماح بالوصول إلى الصور والوسائط والملفات من الجهاز.";
+"Camera" = "الة تصوير";
+"Allow to system camera permission for click photos." =  "السماح بإذن نظام الكاميرا للنقر فوق الصور.";
+
+
+"Unlock All Premium Features" = "افتح جميع الميزات المميزة";
+"Use all premium templates" = "استخدم جميع القوالب المتميزة";
+"Export 1080 HQ Banner" = "تصدير 1080 HQ Banner";
+"Remove Ads" = "ازالة الاعلانات";
+"Premium Support" = "دعم متميز";
+"for 3 Month" = "لمدة 3 اشهر";
+"for 1 Year" = "لمدة 1 سنة";
+
+"Billed every 3 month" = "دفع كل 3 أشهر";
+"Billed every 1 year" = "تدفع كل سنة";
+"OR TRY LIMITED VERSION" = "أو جرِّب إصدارًا محدودًا";
+"PREMIUM" = "الممتازة";
+"BASIC" = "الأساسي";
+
+"Already a Flayer Poster subcriber?" = "بالفعل مشترك Flayer Poster؟";
+"Restore" = "يعيد";
+"SUBCRIBE NOW" = "إشترك الآن";
+"Privacy Policy" = "سياسة الخصوصية";
+"Terms & Use" = "الشروط والاستخدام";
+
+"Upgrade to Premium" = "الترقية إلى المميزة";
+"Instantly Detect Photos" = "كشف الصور على الفور";
+"Unlimited Access" = "وصول غير محدود";
+"Dark Mode" = "الوضع الداكن";
+"Language" = "لغة";
+"Feedback" = "ردود الفعل";
+"Report Bug" = "تقرير الشوائب";
+"Rate Us" = "قيمنا";
+"Share App" = "شارك التطبيق";
+"About Us" = "معلومات عنا";
+
+"Bug Tracking" = "تتبع الأخطاء";
+"Please use this form to submit any bugs or issues you are experiencing." = "الرجاء استخدام هذا النموذج لإرسال أي أخطاء أو مشكلات تواجهها.";
+
+"Please provide a short descriptive title." = "الرجاء تقديم عنوان وصفي قصير.";
+"Submit" = "يُقدِّم";
+"Enter your answer" = "أدخل إجابتك";
+"This field is required." = "هذه الخانة مطلوبه.";
+"Design" = "تصميم";
+"Development" = "تطوير";
+"General" = "عام";
+"Setting" = "ضبط";
+"Title your report." = "عنوان التقرير الخاص بك";
+"Can you share the version number. This should be found in the settings menu in app." = "هل يمكنك مشاركة رقم الإصدار. يجب العثور على هذا في قائمة الإعدادات في التطبيق.";
+"Can you share your device brand and model details?" = "هل يمكنك مشاركة رقم الإصدار. يجب العثور على هذا في قائمة الإعدادات في التطبيق ، هل يمكنك مشاركة العلامة التجارية لجهازك وتفاصيل الطراز؟";
+"Can you share the OS version number. This should be found in the About section of device settings." = "هل يمكنك مشاركة رقم إصدار نظام التشغيل. يجب العثور على هذا في قسم حول من إعدادات الجهاز.";
+"Is the bug related to development, design or general?" = "هل الخلل متعلق بالتطوير أو التصميم أو العام؟";
+
+"Please describe the issue you are experiencing:" = "يرجى وصف المشكلة التي تواجهها:";
+"Choose one ..." = "اختر واحدة ...";
+
+"App version" = "نسخة التطبيق";
+
+

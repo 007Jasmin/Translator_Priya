@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  Simple Demo
+
+  Created by Sagar Lukhi on 27/12/22.
+  
+*/
+
+"Simple Demo" = "Simple Demo";
+"By clicking get stated button, you are agree to the Privacy Policy and Terms of Service." = "By clicking get stated button, you are agree to the Privacy Policy and Terms of Service.";
+"Terms of Service" = "Terms of Service";
+"Loading Ads..." = "Loading Ads...";
+"Get Started" = "Get Started";
+"Please checked Privacy policy !" = "Please checked Privacy policy !";
+"Get Started" = "Get Started";
+"Done" = "Done";
+"Next" = "Next";
+"Continue" = "Continue";
+"Home" = "Home";
+"GOT IT" = "GOT IT";
+"Permissions Requied To Simple Demo" = "Permissions Requied To Simple Demo";
+
+"All infomation About different types." = "All infomation About different types.";
+"Please Allow Access" = "Please Allow Access";
+"Please allow the following permission by clicking Take Permission Button." = "Please allow the following permission by clicking Take Permission Button.";
+"Media & Storage" = "Media & Storage";
+"Allow to access photos, media and files from device." = "Allow to access photos, media and files from device.";
+"Camera" = "Camera";
+"Allow to system camera permission for click photos." = "Allow to system camera permission for click photos.";
+
+
+"Unlock All Premium Features" = "Unlock All Premium Features";
+"Use all premium templates" = "Use all premium templates";
+"Export 1080 HQ Banner" = "Export 1080 HQ Banner";
+"Remove Ads" = "Remove Ads";
+"Premium Support" = "Premium Support";
+"for 3 Month" = "3 Month";
+"for 1 Year" = "1 Year";
+
+"Billed every 3 month" = "Billed every 3 month";
+"Billed every 1 year" = "Billed every 1 year";
+"OR TRY LIMITED VERSION" = "OR TRY LIMITED VERSION";
+"PREMIUM" = "PREMIUM";
+"BASIC" = "BASIC";
+
+"Already a Flayer Poster subcriber?" = "Already a Flayer Poster subcriber?";
+"Restore" = "Restore";
+"SUBCRIBE NOW" = "SUBCRIBE NOW";
+"Privacy Policy" = "Privacy Policy";
+"Terms & Use" = "Terms & Use";
+ 
+"Upgrade to Premium" = "Upgrade to Premium";
+"Instantly Detect Photos" = "Instantly Detect Photos";
+"Unlimited Access" = "Unlimited Access";
+"Dark Mode" = "Dark Mode";
+"Language" = "Language";
+"Feedback" = "Feedback";
+"Report Bug" = "Report Bug";
+"Rate Us" = "Rate Us";
+"Share App" = "Share App";
+"About Us" = "About Us";
+
+"Bug Tracking" = "Bug Tracking";
+"Please use this form to submit any bugs or issues you are experiencing." = "Please use this form to submit any bugs or issues you are experiencing.";
+
+"Please provide a short descriptive title." = "Please provide a short descriptive title.";
+"Submit" = "Submit";
+"Enter your answer" = "Enter your answer";
+"This field is required." = "This field is required.";
+"Design" = "Design";
+"Development" = "Development";
+"General" = "General";
+"Setting" = "Setting";
+"Title your report." = "Title your report.";
+"Can you share the version number. This should be found in the settings menu in app.Can you share your device brand and model details?" = "Can you share the version number. This should be found in the settings menu in app.Can you share your device brand and model details?";
+"Can you share the OS version number. This should be found in the About section of device settings." = "Can you share the OS version number. This should be found in the About section of device settings.";
+"Is the bug related to development, design or general?" = "Is the bug related to development, design or general?";
+
+"Please describe the issue you are experiencing:" = "Please describe the issue you are experiencing:";
+"Choose one ..." = "Choose one ...";
+
+"App version" = "App version";
